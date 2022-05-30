@@ -34,6 +34,6 @@ fi
 source /opt/ros/melodic/setup.bash
 source catkin_ws/devel/setup.bash
 
-export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/argsubt/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/model
+# export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/argsubt/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/model
 
 export GDK_SYNCHRONIZE=1

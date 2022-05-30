@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+    
+    <node pkg="no_ros" type="sub_msg.py" name="sub_msg" output="screen" />
+
+</launch>
