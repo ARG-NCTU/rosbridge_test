@@ -20,6 +20,7 @@ roslaunch no_ros sub_msg.launch
 #### Terminal 3:
 ```bash
 cd rosbridge_test/catkin_ws/src/
+pip install roslibpy
 python no_ros_pub.py
 ```
 #### If you are successful, you will see the following image
